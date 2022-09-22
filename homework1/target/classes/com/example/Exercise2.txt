@@ -1,0 +1,12 @@
+      Int
+        Interger
+        Cannot be null 
+          Can be null
+        A data type that has 32-bit 
+          A class that wraps a primitive type
+        signed two's complement interger 
+          int in an object 
+        Primitive data type
+          Wrapper Class 
+        Store int values in memory 
+          Convert int into an object  
